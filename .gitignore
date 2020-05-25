@@ -1,0 +1,6 @@
+node_modules
+build
+*.code-workspace
+.scratch
+.env
+.vscode
